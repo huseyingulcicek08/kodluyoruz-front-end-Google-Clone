@@ -4,7 +4,7 @@ Kodluyoruz Front-End Web Patikası CSS ödevidir.
 
 ---
 
-![Image](assets/google-clone-screenshot.png)
+
 
 ---
 
